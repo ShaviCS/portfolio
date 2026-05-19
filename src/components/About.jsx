@@ -6,7 +6,7 @@ const STRENGTHS = [
 
 const INFO = [
   { label: 'Email',    value: 'shavindyachamalka1999@gmail.com',  href: 'mailto:shavindyachamalka1999@gmail.com' },
-  { label: 'Phone',    value: '+94 71 411 9011 / +94 74 080 8984', href: 'tel:+94714119011' },
+  { label: 'Phone',    value: '+94 71 411 9011', href: 'tel:+94714119011' },
   { label: 'LinkedIn', value: 'linkedin.com/in/shavindyachamalka',  href: 'https://linkedin.com/in/shavindyachamalka' },
   { label: 'Location', value: 'Sri Lanka' },
   { label: 'Languages', value: 'English · Sinhala · Tamil' },

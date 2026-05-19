@@ -30,7 +30,7 @@ export default function Contact() {
 
   // ⚠️  To enable the contact form, sign up at https://formspree.io,
   //     create a form, and replace YOUR_FORM_ID below.
-  const FORMSPREE_ID = 'xredegpd'
+  const FORMSPREE_ID = 'YOUR_FORM_ID'
 
   const handleSubmit = async (e) => {
     e.preventDefault()
