@@ -26,7 +26,7 @@ function App() {
     const els = document.querySelectorAll('.reveal')
     els.forEach((el) => observer.observe(el))
     return () => observer.disconnect()
-  }, [])
+  }, []) //test
 
   return (
     <>
